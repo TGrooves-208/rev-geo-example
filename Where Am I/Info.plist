@@ -26,6 +26,12 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>The app always needs to know where your current location is.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>The app needs to know where you current location is.</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
